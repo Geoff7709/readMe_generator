@@ -1,3 +1,7 @@
+// requires
+const fs = require('fs');
+const inquirer = require('inquirer');
+const generateMarkdown = require('./utils/generateMarkdown.js');
 // array of questions for user
 const questions = [
 
