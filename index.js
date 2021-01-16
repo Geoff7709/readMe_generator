@@ -7,22 +7,27 @@ const questions = [
     {
         name: 'title',
         message: 'What is the name of your project?',
+        default: 'Please choose a title'
     },
     {
         name: 'email',
-        message: 'What is your email?'
+        message: 'What is your email?',
+        default: 'yourName@someplace.go'
     },
     {
         name: 'gitHub',
-        message: 'What is your gitHub profile name?'
+        message: 'What is your gitHub profile name?',
+        default: 'gitProfile'
     },
     {
         name: 'repository',
-        message: 'What is the name of the gitHub repository for this project?'
+        message: 'What is the name of the gitHub repository for this project?',
+        default: 'repoName'
     },
     {
         name: 'description',
-        message: 'Write a brief description of your application.'
+        message: 'Write a brief description of your application.',
+        default: 'Incididunt sint tempor incididunt minim elit cillum minim.'
     },
 
 ];
