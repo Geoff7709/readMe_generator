@@ -1,6 +1,7 @@
 // requires
 const fs = require('fs');
 const inquirer = require('inquirer');
+const Choice = require('inquirer/lib/objects/choice');
 const generateMarkdown = require('./utils/generateMarkdown.js');
 // array of questions for user
 const questions = [
@@ -28,6 +29,12 @@ const questions = [
         name: 'description',
         message: 'Write a brief description of your application.',
         default: 'Incididunt sint tempor incididunt minim elit cillum minim.'
+    },
+    {
+        type: "list",
+        name: "lisence",
+        message: "Choose what lisence you would like to include.",
+        choices: ["Apache", "BSD", "MIT", "GNU"]
     },
 
 ];
