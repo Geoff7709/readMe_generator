@@ -24,6 +24,7 @@
   `npm i`
   ## Usage
   After installation enter the following command into your integrated terminal:
+
   `node index.js`
 
   ![Usage Video](images\usage_video.gif)
