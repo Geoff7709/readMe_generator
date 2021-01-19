@@ -29,7 +29,7 @@ function generateMarkdown(data) {
   To install this application open an integrated terminal and enter the following into the command line:\n
   \`${data.installation}\`
   ## Usage
-  ${data.usage}
+  \`${data.usage}\`\n
   [Usage Video](${data.video})
   ## Tests
   \`${data.test}\`

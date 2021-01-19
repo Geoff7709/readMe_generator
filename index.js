@@ -60,11 +60,11 @@ const questions = [
     {
         name: 'usage',
         message: 'Describe the usage of your application.',
-        default: 'Your command'
+        default: 'Your startup command'
     },
     {
         name: 'video',
-        message: 'Please provide a URL link to and instructional video for your application.',
+        message: 'Please provide a URL link to an instructional video for your application.',
         default: 'User Video'
     },
 

@@ -23,7 +23,8 @@
 
   `npm i`
   ## Usage
-  Your command
+  `Your startup command`
+
   [Usage Video](User Video)
   ## Tests
   `npm run test`
