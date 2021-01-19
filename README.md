@@ -27,7 +27,7 @@
 
   `node index.js`
 
-  ![Usage Video](images\usage_video.gif)
+![Usage Video](images\usage_video.gif)
   ## Tests
   `There are no tests currently for this application`
   ## Contributing
