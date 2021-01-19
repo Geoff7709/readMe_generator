@@ -1,5 +1,5 @@
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-  # Please choose a title
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  # README Generator
   ## Table of contents
   ---
   [Description](#description)
@@ -17,30 +17,31 @@
   [Lisence](#lisence)
 
   ## Description
-  Incididunt sint tempor incididunt minim elit cillum minim.
+  This is a command line application that quickly and easily generates a README file to accompany any application, and saves the developer time and effort. This README was generated completely by use of this application.
   ## Installation
   To install this application open an integrated terminal and enter the following into the command line:
 
   `npm i`
   ## Usage
-  `Your startup command`
+  After installation enter the following command into your integrated terminal:
+  `node index.js`
 
-  [Usage Video](User Video)
+  ![Usage Video](images\usage_video.gif)
   ## Tests
-  `npm run test`
+  `There are no tests currently for this application`
   ## Contributing
   Please note that this project is released with a Contributor Code of Conduct. By participating in this project you agree to abide by its terms.
   [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
   ## Questions
-  [GitHub Repository](https://github.com/gitProfile/repoName)
+  [GitHub Repository](https://github.com/geoff7709/readMe_generator)
 
   For further questions please feel free to email the developers:
 
-  yourName@someplace.go
+  geoffzimmerman23@gmail.com
   ## Lisence
   Use of this software is regulated under the following lisence:
 
-  [Apache](https://opensource.org/licenses/Apache-2.0)
+  [MIT](https://opensource.org/licenses/MIT)
 
   
 

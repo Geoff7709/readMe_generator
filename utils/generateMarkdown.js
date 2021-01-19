@@ -30,7 +30,7 @@ function generateMarkdown(data) {
   \`${data.installation}\`
   ## Usage
   \`${data.usage}\`\n
-  [Usage Video](${data.video})
+  ![Usage Video](${data.video})
   ## Tests
   \`${data.test}\`
   ## Contributing
