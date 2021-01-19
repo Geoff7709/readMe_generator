@@ -36,6 +36,37 @@ const questions = [
         message: "Choose what lisence you would like to include.",
         choices: ["Apache", "BSD", "MIT", "GNU"]
     },
+    {
+        type: "checkbox",
+        name: "languages",
+        message: "What languages are used in this application?",
+        choices: ["JS", "HTML", "CSS", "REACT", "Node"]
+    },
+    {
+        name: 'contribution',
+        message: 'What are the contribution guidelines for your prolject?',
+        default: 'Please note that this project is released with a Contributor Code of Conduct. By participating in this project you agree to abide by its terms.'
+    },
+    {
+        name: 'installation',
+        message: 'What is the installation command for your application?',
+        default: 'npm i'
+    },
+    {
+        name: 'test',
+        message: 'What is the command for testing your application?',
+        default: 'npm run test'
+    },
+    {
+        name: 'usage',
+        message: 'Describe the usage of your application.',
+        default: 'Your command'
+    },
+    {
+        name: 'video',
+        message: 'Please provide a URL link to and instructional video for your application.',
+        default: 'User Video'
+    },
 
 ];
 
