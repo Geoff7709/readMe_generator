@@ -14,7 +14,7 @@
 
   [Questions](#questions)
 
-  [Lisence](#lisence)
+  [License](#license)
 
   ## Description
   This is a command line application that quickly and easily generates a README file to accompany any application, and saves the developer time and effort. This README was generated completely by use of this application.
@@ -39,7 +39,7 @@
   For further questions please feel free to email the developers:
 
   geoffzimmerman23@gmail.com
-  ## Lisence
+  ## License
   Use of this software is regulated under the following lisence:
 
   [MIT](https://opensource.org/licenses/MIT)
